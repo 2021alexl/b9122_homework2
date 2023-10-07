@@ -25,10 +25,15 @@ The HTML tag for identifying plenary sessions is: <span class="ep_name">Plenary 
 Alex (Ke) Lan
 
 Position: Data Science Co-op at Novo Nordisk
+
 Education: MSBA at Columbia University | Economics & Statistics at Boston University
+
 Email: kl3411@columbia.edu
+
 Phone: 857-316-5572
+
 Portfolio: alex-lan.webflow.io
+
 LinkedIn: Ke Alex Lan
 
 
