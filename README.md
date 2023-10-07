@@ -30,11 +30,6 @@ Education: MSBA at Columbia University | Economics & Statistics at Boston Univer
 
 Email: kl3411@columbia.edu
 
-Phone: 857-316-5572
-
-Portfolio: alex-lan.webflow.io
-
-LinkedIn: Ke Alex Lan
 
 
 ### Function Descriptions
